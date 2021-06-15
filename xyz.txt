@@ -1,2 +1,7 @@
 hello
+<<<<<<< HEAD
 hi soniya
+=======
+
+hihhhh
+>>>>>>> ae6e31083a9e4d6f60b064d388512b0ab3cdc2a9
